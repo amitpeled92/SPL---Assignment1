@@ -1,0 +1,3 @@
+C:/Users/amitp/CLionProjects/Assignment1SPL/cmake-build-debug/CMakeFiles/Assignment1SPL.dir
+C:/Users/amitp/CLionProjects/Assignment1SPL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/amitp/CLionProjects/Assignment1SPL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
