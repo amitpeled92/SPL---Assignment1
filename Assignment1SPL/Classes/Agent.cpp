@@ -6,7 +6,7 @@
 
 Class Agent{
 public:
-    virtual void act() = 0;
+    virtual void act() = 0; //...
 
 };
 
