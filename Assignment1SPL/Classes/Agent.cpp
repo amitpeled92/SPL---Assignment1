@@ -3,3 +3,11 @@
 //
 
 #include "../Headers/Agent.h"
+
+Class Agent{
+public:
+    virtual void act() = 0;
+
+};
+
+
